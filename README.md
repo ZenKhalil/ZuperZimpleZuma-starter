@@ -4,7 +4,7 @@ A simple and fun implementation of the classic Zuma game using JavaScript.
 
 ## Demo
 
-Play the game here: [Zuper Zimple Zuma Demo](https://zenkhalil.github.io/ZuperZimpleZuma-starter/)
+Play the game here: [Zuper Zimple Zuma Demo](https://zenkhalil.github.io/ZuperZimpleZuma-starter/animations.html)
 
 ## Description
 
