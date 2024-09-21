@@ -121,20 +121,4 @@ function randomBall() {
     return balls[Math.floor(Math.random() * balls.length)];
 }
 
-function red() {
-    return balls[0];
-}
-
-function blue() {
-    return balls[1];
-}
-
-function yellow() {
-    return balls[2];
-}
-
-function green() {
-    return balls[3];
-}
-
 // debugger;
