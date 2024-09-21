@@ -43,7 +43,8 @@ To run the game locally on your machine:
 
 2. **Navigate to the Project Directory**
 
-   ```cd ZuperZimpleZuma-starter
+   ```bash
+   cd ZuperZimpleZuma-starter
 
 3. **Open the Game in a Browser**
 
